@@ -1,3 +1,13 @@
+## Day 02 | April 21, 2020 | Wednesday
+
+Today's progress:
+Model validation
+- Mean Absolute Error: error = actual - predicted
+- Validation data
+- Split data: from sklearn.model_selection import train_test_split
+- underfitting vs overfitting
+- random forest model
+
 ## Day 01 | April 20, 2020 | Tuesday
 
 Today's progress:
@@ -19,3 +29,4 @@ What I have learned:
   + Fit: capture patterns from provided data. This is the heart of modelling
   + Predict
   + Evaluate: Determine how accurate the model's predictions are.
+  + decision tree
