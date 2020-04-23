@@ -1,4 +1,11 @@
-## Day 02 | April 21, 2020 | Wednesday
+## Day 03 | April 23, 2020 | Thursday
+Today's progress:
+- Learning Pandas:
+  + Creating dataframe, series
+  + Reading, and writing file
+  + indexing, manipulating the index,
+
+## Day 02 | April 22, 2020 | Wednesday
 
 Today's progress:
 Model validation
@@ -8,7 +15,7 @@ Model validation
 - underfitting vs overfitting
 - random forest model
 
-## Day 01 | April 20, 2020 | Tuesday
+## Day 01 | April 21, 2020 | Tuesday
 
 Today's progress:
 - Setting up todayilearned100days repo
